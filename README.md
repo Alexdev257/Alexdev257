@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Back End ⚒️</h2>
 <!-- 💻 Languages & Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,nest,express,spring,dotnet" /><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,nodejs,express,nest,spring,dotnet" /><br/>
 </p>
 
 <h2 align="center">⚒️ Mobile App ⚒️</h2>

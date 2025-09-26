@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Front End ⚒️</h2>
 <!-- 💻 Languages & Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,vue,angular,flutter,bootstrap,tailwind,sass" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,vue,angular,bootstrap,tailwind,sass" /><br/>
 </p>
 
 <h2 align="center">⚒️ Back End ⚒️</h2>

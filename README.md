@@ -69,6 +69,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexdev257&show_icons=true&theme=radical&hide_border=true&border_radius=12&title_color=ffa500&icon_color=ff8c00&text_color=ffffff" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdev257&layout=compact&hide_border=true&title_color=ffa500&text_color=ffffff&bg_color=20232a" width="400" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p> 
 
 <!-- 🌟 Add animation -->

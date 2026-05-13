@@ -68,8 +68,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexdev257&show_icons=true&theme=radical&hide_border=true&border_radius=12&title_color=ffa500&icon_color=ff8c00&text_color=ffffff" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdev257&layout=compact&hide_border=true&title_color=ffa500&text_color=ffffff&bg_color=20232a" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeForFee&theme=tokyonight&fire=2bbc8a&ring=2bbc8a&sideNums=2bbc8a&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alexdev257&layout=compact&theme=dark&title_color=2bbc8a&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </p> 
 
 <!-- 🌟 Add animation -->

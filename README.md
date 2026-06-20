@@ -49,7 +49,7 @@
 <h2 align="center">⚒️ Database & Queue ⚒️</h2>
 <!-- 🗄️ Databases -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,rabbitmq,mqtt" />
   <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 

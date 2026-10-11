@@ -4,7 +4,8 @@
 </h1>
 
 <p align="center">
-  🎓 <strong>Currently studying at FPT University</strong> <br/>
+  🎓 <strong>Graduated at FPT University</strong> <br/>
+  🎓 <strong>Currently studying MIT-AI at HCMUS</strong> <br/>
   💻 <i>Full-Stack Developer | Focused on Performance, Security, and Clean Code</i>
 </p>
 
@@ -43,7 +44,7 @@
 <h2 align="center">⚒️ IoT ⚒️</h2>
 <!-- 💻 Languages & Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" /><br/>
+  <img src="https://skillicons.dev/icons?i=arduino,platformio" /><br/>
 </p>
 
 <h2 align="center">⚒️ Database & Queue ⚒️</h2>

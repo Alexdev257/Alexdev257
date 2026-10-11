@@ -44,7 +44,7 @@
 <h2 align="center">⚒️ IoT ⚒️</h2>
 <!-- 💻 Languages & Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,platformio" /><br/>
+  <img src="https://skillicons.dev/icons?i=arduino" /><br/>
 </p>
 
 <h2 align="center">⚒️ Database & Queue ⚒️</h2>
@@ -57,7 +57,7 @@
 <!-- 🚀 Deployment & DevOps -->
 <h2 align="center">⚒️ Deployment Tools  ⚒️</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,grafana,prometheus,tempo,loki" /><br/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />   
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />    
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=FBB040" />
